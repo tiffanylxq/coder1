@@ -4,7 +4,7 @@
 /*1. make the background color dark gray: #212121*/
 /*2. change the font family to: 'lato'*/
 .my-body{
-	background-color: #212121;
+	background-color: lightskyblue;
 	font-family: 'lato';
 	src: url('https://fonts.googleapis.com/css?family=Lato:100,400,900')
 }
@@ -25,9 +25,8 @@
 .my-subtitle{
 	font-size: 1.25rem;
 	font-weight: 400;
-	color: orangered;
-	background-color: white
-}
+	color: plum;
+	background-color: purple}
 
 /*10. enlarge the font size to: 3rem*/
 /*11. thin the font wight to: 100*/
