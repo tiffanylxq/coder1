@@ -28,16 +28,17 @@
 /*5. create a border: 1px solid #aaa*/
 /*6. shift the image up with margin-top: -100px*/
 .my-face{
-	
-
-
-
-
-
+	display: block;
+	width:200px;
+	height:200px;
+	margin:100px;
+	border-radius: 100px;
+	border:1px solid #aaa;
+	margin-top:-100px 
 }
 
 /*stripe generator: http://www.stripegenerator.com/*/
 /*7. set background image as: stripe_background.png*/
 .my-body{
-	
+	background-image: url(stripe_background.png)
 }
