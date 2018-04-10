@@ -40,12 +40,19 @@
 .my-link{
 	font-weight: 900;
 	text-decoration: none;
+	background-color:white;
 	color:black
 	
 }
 /*4. invert the color: text is white, background is black*/
 /*5. add a left padding of: 1rem*/
-.my-link:hover, .my-link:active{
+.my-link:hover{
+	color:pink;
+	background-color: lightblue;
+	padding-left: 1rem;
+	
+}
+.my-link:active{
 	color:white;
 	background-color: black;
 	padding-left: 1rem;
@@ -54,5 +61,5 @@
 /*you can optionally style a visited state*/
 .my-link:visited{
 	color:blue;
-	background-color: black;
+	background-color: red;
 }
