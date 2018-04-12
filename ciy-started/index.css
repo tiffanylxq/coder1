@@ -8,10 +8,10 @@ html {
   }
   
   body {
-    background: url('https://i.ytimg.com/vi/fw-aXF-L8-k/maxresdefault.jpg') no-repeat !important;
+    background: url('https://c1.staticflickr.com/9/8288/7525381378_aa2917fa0e_b.jpg') no-repeat !important;
     padding-top:100px;
     background-size:cover;
-    min-height: 100vh;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
